@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.gif" width="100%" alt="Banner"/>
+</p>
 <h1 align="center">Hi 👋, It's Mufaa</h1>
 
 <p align="center">
