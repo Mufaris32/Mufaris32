@@ -1,123 +1,69 @@
+<!-- TOP BANNER GIF -->
 <p align="center">
-  <img src="Banner.gif" width="100%" alt="Banner"/>
-</p>
-<h1 align="center">Hi 👋, It's Mufaa</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mufaris32&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="Banner.gif" width="100%" alt="Neon Banner"/>
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Intern+%7C+AI+%26+ML+Learner;Building+Smart+and+Clean+Solutions" />
+  <b>Full-Stack Developer</b> | Intern | AI & ML Learner
 </p>
 
-
 <p align="center">
-  🚀 Software Developer | 🎓 Intern | 🤖 AI & ML Enthusiast  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Learner;Building+Smart+and+Clean+Solutions" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-I’m a **Software Developer** who enjoys building practical, scalable applications with clean design and solid logic.  
-Currently doing my **internship**, while actively learning **AI & Machine Learning** and modern backend systems.
+```javascript
+const mufaa = {
+  role: "Full-Stack Developer",
+  currentStatus: "Intern",
+  interests: [
+    "Web Application Development",
+    "Backend Systems",
+    "Artificial Intelligence & Machine Learning"
+  ],
+  techMindset: "Clean code + scalable architecture",
+  learningFocus: "AI, ML & cloud-native systems",
+  belief: "Learn continuously, build consistently 🚀"
+}; 
+```
+<ul>
+<li>💼 Currently doing an internship</li>
 
-I believe in:
-- Writing clean, readable code  
-- Learning by building real projects  
-- Improving one step at a time  
+<li>🤖 Actively learning AI & Machine Learning</li>
 
----
+<li>🧠 Interested in backend systems & architecture</li>
 
-## 🛠 Tech Stack  
+<li>⚡ Hands-on learner who builds to understand</li>
+</ul>
 
-### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
+🛠 Tech Stack
+💻 Languages
+<p align="center"> <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a> </p>
+🧩 Frameworks & Libraries
+<p align="center"> <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" /></a> <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" /></a> <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" /></a> <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a> </p>
+🗄 Databases
+<p align="center"> <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a> </p>
+⚙ Tools & DevOps
+<p align="center"> <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a> <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a> <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a> </p>
+📌 Projects
+<ul>
+<li>🎓 College Event Management System</li>
 
-### ⚙ Frameworks & Libraries  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<li>🏥 GNMS</li>
 
-### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+<li>❤️ ECG Viewer</li>
+</ul>
+<ul>🤝 Contributing Projects
 
----
+<li>EDDS</li>
 
-## 🚧 Currently  
-- 💼 Doing **Internship**  
-- 🤖 Learning **AI & Machine Learning**  
-- ⚙ Improving backend & system design skills  
+</ul>
 
----
-
-## 📌 Projects  
-- **College Event Management System**  
-- **GNMS**  
-- **ECG Viewer**  
-
-### 🤝 Contributing  
-- **EDDS**
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Mufaris32&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Mufaris32&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Mufaris32&show_icons=true" height="170" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mufaris32&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mufaris32&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mufaris32" height="170" />
-  </picture>
-</p>
-
-
----
-
-## 🌐 Connect With Me  
-
-- 💻 GitHub: https://github.com/Mufaris32  
-- 🔗 LinkedIn: https://linkedin.com/in/mufa32  
-- 📧 Email:mufarismohamed745@gmail.com 
-- 🌍 Portfolio: https://my-portfolio-9nqt.vercel.app/  
-
----
-
-<p align="center">
-  <i>"Keep learning. Keep building. Stay curious."</i>
-</p>
-
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mufaris32&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mufaris32&theme=tokyonight" height="170"/> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/Mufaris32" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://linkedin.com/in/mufa32" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:mufarismohamed745@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://my-portfolio-9nqt.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a> <a href="https://www.instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> <a href="https://www.facebook.com/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a> </p>
+<p align="center"> <i>"In the age of AI, the real skill is learning how to learn."</i> 🤖 </p> <p align="center"> ⭐ If you like my work, feel free to star my repositories! </p> ```
